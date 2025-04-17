@@ -96,7 +96,7 @@ SELECT *
 FROM finance_liquor_sales
 WHERE date BETWEEN '2016-01-01' AND '2019-12-31'
 ORDER BY date ASC;
-
+```
 ---
 
 ## License
